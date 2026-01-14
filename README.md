@@ -1,5 +1,3 @@
-Elbette, projenizin teknik detaylarını vurgulayan ve uluslararası bir kitleye hitap eden, **İngilizce** bir **README.md** metni:
-
 -----
 
 # 💻 MPL Compiler: A Simple Programming Language with Turkish Keywords
